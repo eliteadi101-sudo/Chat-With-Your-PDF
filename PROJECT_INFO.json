@@ -1,0 +1,5 @@
+{
+  "name": "Chat With Your PDF",
+  "stack": "Python, Streamlit, pypdf",
+  "description": "Upload a PDF and search its extracted text with a simple keyword-based answer finder (no paid AI API required)."
+}
